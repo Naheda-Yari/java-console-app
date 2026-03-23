@@ -19,7 +19,7 @@ The application runs in the terminal and demonstrates basic programming logic us
 ## Purpose of the Project
 The goal of this project is to improve my understanding of Java fundamentals and gain practical experience in programming logic and problem-solving.
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add menu-based system  
 - Improve user interaction  
 - Add data storage using files or database  
